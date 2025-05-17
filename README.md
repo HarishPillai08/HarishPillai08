@@ -20,10 +20,10 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="(https://www.linkedin.com/in/harishpillaiofficial/)e" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="harishpillai1212@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://twitter.com/yourtwitter" target="_blank">
